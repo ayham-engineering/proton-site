@@ -6,9 +6,9 @@ import SocialLinks from "./SocialLinks";
 
 const MEMBERS = [
   { name: "Ayham Hamid", photo: "/ayham.jpg", role: { ar: "قائد الفريق", en: "Lead" } },
-  { name: "Mohammed Jasim", photo: "/mhmdjassim.jpg", role: { ar: "مختص العتاد", en: "Hardware specialist" } },
+  { name: "Mohammed Jasim", photo: "/mhmdjassim.jpg", role: { ar: "مختص الهاردوير", en: "Hardware specialist" } },
   { name: "Muwafaq Salar", photo: "/muwafaq.jpg", role: { ar: "باحث", en: "Researcher" } },
-  { name: "Aseel Lubab", photo: "/aseel.jpg", role: { ar: "مبرمجة", en: "Programmer" } },
+  { name: "Aseel Lubab", photo: "/aseel.jpg", role: { ar: "مبرمج", en: "Programmer" } },
 ];
 
 const COPY = {
